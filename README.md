@@ -1,4 +1,4 @@
-# Hospital Meal Planning Optimization  
+# Retirement Home Meal Planning Optimization  
 #### *"Optimizing cost-effective and nutritionally balanced meal plans for hospital patients with diverse dietary needs."*
 
 ![](https://github.com/SnehaEkka/BA885-Meal-Planning-Optimization-Model/blob/main/meal-planning.jpg)
