@@ -67,5 +67,4 @@ Hospitals and healthcare facilities face the challenge of providing nutritionall
 
 ## Additional Resources  
 
-- [Presentation Deck](https://www.canva.com/design/DAGX-rLYj1Q/KHFH45tZrQV9TbDDOFtpfg/view?utm_content=DAGX-rLYj1Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hefcca586bb)  
-- [Full Project Report](BA885-Team-10-Project-Report.pdf)
+- [Presentation Deck](https://www.canva.com/design/DAGX-rLYj1Q/KHFH45tZrQV9TbDDOFtpfg/view?utm_content=DAGX-rLYj1Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hefcca586bb)
